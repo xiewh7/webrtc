@@ -1,0 +1,10 @@
+/*
+.DS_Store
+!.gitignore
+!/src/
+!package.json
+!webpack.config.js
+!server.js
+!/public
+!README.md
+
